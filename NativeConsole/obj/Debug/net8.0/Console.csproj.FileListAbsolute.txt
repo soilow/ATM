@@ -1,0 +1,15 @@
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.csproj.AssemblyReference.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.AssemblyInfo.cs
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.csproj.CoreCompileInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.sourcelink.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/bin/Debug/net8.0/Console.deps.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/bin/Debug/net8.0/Console.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/bin/Debug/net8.0/Console.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/bin/Debug/net8.0/Console.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/refint/Console.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/Console.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Console/obj/Debug/net8.0/ref/Console.dll

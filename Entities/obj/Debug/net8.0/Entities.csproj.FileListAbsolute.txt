@@ -1,0 +1,15 @@
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/bin/Debug/net8.0/Entities.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/bin/Debug/net8.0/Entities.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.csproj.AssemblyReference.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.sourcelink.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Entities/obj/Debug/net8.0/ref/Entities.dll

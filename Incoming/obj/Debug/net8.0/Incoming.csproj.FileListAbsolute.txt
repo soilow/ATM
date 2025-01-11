@@ -1,0 +1,15 @@
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.csproj.AssemblyReference.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.AssemblyInfoInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.AssemblyInfo.cs
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.csproj.CoreCompileInputs.cache
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.sourcelink.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/bin/Debug/net8.0/Incoming.deps.json
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/bin/Debug/net8.0/Incoming.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/bin/Debug/net8.0/Incoming.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/bin/Debug/net8.0/Incoming.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/refint/Incoming.dll
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.xml
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/Incoming.pdb
+/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Incoming/obj/Debug/net8.0/ref/Incoming.dll

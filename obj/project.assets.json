@@ -1,0 +1,327 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Itmo.Dev.Editorconfig/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Itmo.Dev.Editorconfig.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Itmo.Dev.Editorconfig.dll": {}
+        },
+        "build": {
+          "build/Itmo.Dev.Editorconfig.props": {}
+        }
+      },
+      "SourceKit/1.1.34": {
+        "type": "package"
+      },
+      "SourceKit.Analyzers.Collections/1.0.34": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.34"
+        }
+      },
+      "SourceKit.Analyzers.Enumerable/1.0.34": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.34"
+        }
+      },
+      "SourceKit.Analyzers.MemberAccessibility/1.0.31": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.31"
+        }
+      },
+      "SourceKit.Analyzers.Nullable/1.0.34": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.34"
+        }
+      },
+      "SourceKit.Analyzers.Properties/1.0.34": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.34"
+        }
+      },
+      "StyleCop.Analyzers/1.2.0-beta.507": {
+        "type": "package",
+        "dependencies": {
+          "StyleCop.Analyzers.Unstable": "1.2.0.507"
+        }
+      },
+      "StyleCop.Analyzers.Unstable/1.2.0.507": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Itmo.Dev.Editorconfig/1.0.5": {
+      "sha512": "MxZB1z1QxZRqDsM6aFcDV96QHCAAqbGwN6+eDLuipqDIV0/WVUTYn1f/OGol2rKi04VSRsTVTtFZqPo98mys3w==",
+      "type": "package",
+      "path": "itmo.dev.editorconfig/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Itmo.Dev.Editorconfig.props",
+        "content/Rules/.editorconfig",
+        "itmo.dev.editorconfig.1.0.5.nupkg.sha512",
+        "itmo.dev.editorconfig.nuspec",
+        "lib/netstandard2.0/Itmo.Dev.Editorconfig.dll"
+      ]
+    },
+    "SourceKit/1.1.34": {
+      "sha512": "U9lZCH8Emz8GML7o2QyugAKOLoe549VaCk0Y9rq41V3IASb+oldK6QhitPKE1H+nKBLDPacHI+hMGaUxU8FPqA==",
+      "type": "package",
+      "path": "sourcekit/1.1.34",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.dll",
+        "sourcekit.1.1.34.nupkg.sha512",
+        "sourcekit.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Collections/1.0.34": {
+      "sha512": "mW8mxhqRO4yN/ac7oGmCZ7QQvHAdz/KRkzqR897hOHcmOh21JPqJI/uJYrC1DFZma4AQ1kApwDs2e2PJXrUlYw==",
+      "type": "package",
+      "path": "sourcekit.analyzers.collections/1.0.34",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Collections.dll",
+        "sourcekit.analyzers.collections.1.0.34.nupkg.sha512",
+        "sourcekit.analyzers.collections.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Enumerable/1.0.34": {
+      "sha512": "MX62XE/TeMxR+60HRZTgruHWNoDUBXyfCOrvBa9c0Fyzq1NHgbqE51KDmT+BK/po3K6eKpTpzFVAuaoIa9yEHg==",
+      "type": "package",
+      "path": "sourcekit.analyzers.enumerable/1.0.34",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Enumerable.dll",
+        "sourcekit.analyzers.enumerable.1.0.34.nupkg.sha512",
+        "sourcekit.analyzers.enumerable.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.MemberAccessibility/1.0.31": {
+      "sha512": "Ri9M3YxJcTO8O64rjm1dXUAxM4otnaNFSSsXaPqrE7+coA02mq2qUY1hRFk0B95/CSkUQUvJR2sr+x2Vz0cDMw==",
+      "type": "package",
+      "path": "sourcekit.analyzers.memberaccessibility/1.0.31",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.MemberAccessibility.dll",
+        "sourcekit.analyzers.memberaccessibility.1.0.31.nupkg.sha512",
+        "sourcekit.analyzers.memberaccessibility.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Nullable/1.0.34": {
+      "sha512": "yqY9QAwt7qZdwG5sM7Sg4I64BLn8utvWNqEJ5Q9Ihx3rTxqyx20ekLsy7Ae+9Tu1yBjeGYDqZ4sh66G3//plZw==",
+      "type": "package",
+      "path": "sourcekit.analyzers.nullable/1.0.34",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Nullable.dll",
+        "sourcekit.analyzers.nullable.1.0.34.nupkg.sha512",
+        "sourcekit.analyzers.nullable.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Properties/1.0.34": {
+      "sha512": "Is0ftr9VnxnoedWmVJQUUSMg2xrZorIT+YqF/ZZFkG1fr1yurRbVssYd/jgfGePr82/zv5Eu0EhXscdi4z2U+g==",
+      "type": "package",
+      "path": "sourcekit.analyzers.properties/1.0.34",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Properties.dll",
+        "sourcekit.analyzers.properties.1.0.34.nupkg.sha512",
+        "sourcekit.analyzers.properties.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers/1.2.0-beta.507": {
+      "sha512": "/FtugDT66cKJJ+GGH7rNpG6UDrT4iIWz45M6lrXXHobDUFDHw+q5VgkbiR+6ffTO564ge7w6fQh/eoQhVdJO8Q==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.2.0-beta.507",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+        "stylecop.analyzers.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers.Unstable/1.2.0.507": {
+      "sha512": "gTY3IQdRqDJ4hbhSA3e/R48oE8b/OiKfvwkt1QdNVfrJK2gMHBV8ldaHJ885jxWZfllK66soa/sdcjh9bX49Tw==",
+      "type": "package",
+      "path": "stylecop.analyzers.unstable/1.2.0.507",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "rulesets/StyleCopAnalyzersDefault.ruleset",
+        "stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512",
+        "stylecop.analyzers.unstable.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Itmo.Dev.Editorconfig >= 1.0.5",
+      "SourceKit.Analyzers.Collections >= 1.0.34",
+      "SourceKit.Analyzers.Enumerable >= 1.0.34",
+      "SourceKit.Analyzers.MemberAccessibility >= 1.0.31",
+      "SourceKit.Analyzers.Nullable >= 1.0.34",
+      "SourceKit.Analyzers.Properties >= 1.0.34",
+      "StyleCop.Analyzers >= 1.2.0-beta.507"
+    ]
+  },
+  "packageFolders": {
+    "/Users/soilow/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Lab5.csproj",
+      "projectName": "Lab5",
+      "projectPath": "/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/Lab5.csproj",
+      "packagesPath": "/Users/soilow/.nuget/packages/",
+      "outputPath": "/Users/soilow/Documents/Projects/C#/OOP/Laba1/soilow/src/Lab5/obj/",
+      "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
+      "configFilePaths": [
+        "/Users/soilow/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Itmo.Dev.Editorconfig": {
+            "target": "Package",
+            "version": "[1.0.5, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Collections": {
+            "target": "Package",
+            "version": "[1.0.34, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Enumerable": {
+            "target": "Package",
+            "version": "[1.0.34, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.MemberAccessibility": {
+            "target": "Package",
+            "version": "[1.0.31, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Nullable": {
+            "target": "Package",
+            "version": "[1.0.34, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Properties": {
+            "target": "Package",
+            "version": "[1.0.34, )",
+            "versionCentrallyManaged": true
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.2.0-beta.507, )",
+            "versionCentrallyManaged": true
+          }
+        },
+        "centralPackageVersions": {
+          "coverlet.collector": "6.0.2",
+          "Crayon": "2.0.69",
+          "Itmo.Dev.Editorconfig": "1.0.5",
+          "Microsoft.NET.Test.Sdk": "17.11.0",
+          "SourceKit.Analyzers.Collections": "1.0.34",
+          "SourceKit.Analyzers.Enumerable": "1.0.34",
+          "SourceKit.Analyzers.MemberAccessibility": "1.0.31",
+          "SourceKit.Analyzers.Nullable": "1.0.34",
+          "SourceKit.Analyzers.Properties": "1.0.34",
+          "StyleCop.Analyzers": "1.2.0-beta.507",
+          "xunit": "2.9.0",
+          "xunit.runner.visualstudio": "2.8.2"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
